@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio del modulo 2 del prepcourse d eHenry
+Esta es una prueba de como pasar un repositorio de github traerlo a mi repositorio local
